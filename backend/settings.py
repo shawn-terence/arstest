@@ -140,3 +140,5 @@ cloudinary.config(
      api_key="918842645195638",
     api_secret="GHtBhtTU3jXVexzhAwqKFu-bVhs",
  )
+CORS_ALLOW_ALL_ORIGINS=True
+CORS_ALLOW_CREDENTIALS=True
